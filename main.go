@@ -1,3 +1,5 @@
+// HTTP server meant to be used for quick development. Caching is aggressively disabled so that changes propagate fast.
+// Originally from https://gist.github.com/bsidhom/028f7bafc730615aee3c2b516b5001b7.
 package main
 
 import (
